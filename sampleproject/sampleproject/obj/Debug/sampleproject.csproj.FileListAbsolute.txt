@@ -1,0 +1,7 @@
+D:\Git\Day2\sampleproject\sampleproject\bin\Debug\sampleproject.exe.config
+D:\Git\Day2\sampleproject\sampleproject\bin\Debug\sampleproject.exe
+D:\Git\Day2\sampleproject\sampleproject\bin\Debug\sampleproject.pdb
+D:\Git\Day2\sampleproject\sampleproject\obj\Debug\sampleproject.csprojAssemblyReference.cache
+D:\Git\Day2\sampleproject\sampleproject\obj\Debug\sampleproject.csproj.CoreCompileInputs.cache
+D:\Git\Day2\sampleproject\sampleproject\obj\Debug\sampleproject.exe
+D:\Git\Day2\sampleproject\sampleproject\obj\Debug\sampleproject.pdb
